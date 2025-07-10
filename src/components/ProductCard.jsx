@@ -22,11 +22,12 @@ function ProductCard({ product, inCart, addToCart, updateQuantity, quantity }) {
             </picture>
             { !inCart ? ( 
         <button className="add-to-cart" 
+        type="button"
         aria-label={`${product.name}, $${product.price}, add to cart`}
         onClick={()=> addToCart(product)}>
                 <img 
                 src="/images/icon-add-to-cart.svg" alt="Add-to-cart-icon" />
-                <p>Add to cart</p>
+                <span>Add to cart</span>
             </button> ) : (
                 <div className="product-counter">
                     <button className="decrement" aria-label="minus 1" onClick={()=> updateQuantity(product.id, quantity - 1)}>

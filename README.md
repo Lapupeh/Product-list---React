@@ -13,7 +13,8 @@ A sleek, accessible, and responsive e-commerce front-end built with **React + Vi
 ---
 
 ## 🔗Links
--- Live site URL: 
+-- Live site URL: https://dancing-choux-60a2f4.netlify.app/
+
 -- Github repo: https://github.com/Lapupeh/Product-list---React.git
 
 ## 🚀 Features

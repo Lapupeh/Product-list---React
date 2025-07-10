@@ -18,7 +18,7 @@ function ConfirmationModal({ cart, newOrder, confirmationMessage }) {
         <div className="confirmation-modal">
             <div className="modal-content">
             <div className="title-info">
-              <img src="/images/icon-order-confirmed.svg" alt="check-button"/>
+              <img src="/images/icon-order-confirmed.svg" alt="check-icon"/>
               <h3>Order Confirmed</h3>
               <p>We hope you enjoy your food!</p>
             </div>
