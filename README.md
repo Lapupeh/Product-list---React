@@ -14,6 +14,7 @@ A sleek, accessible, and responsive e-commerce front-end built with **React + Vi
 
 ## 🔗Links
 -- Live site URL: 
+-- Github repo: https://github.com/Lapupeh/Product-list---React.git
 
 ## 🚀 Features
 
@@ -68,7 +69,7 @@ src/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/react-product-cart.git
+git clone https://github.com/Lapupeh/Product-list---React.git
 cd react-product-cart 
 ```
 2. **Install dependencies**
